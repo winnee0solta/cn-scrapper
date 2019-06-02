@@ -1,0 +1,556 @@
+1559066496212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\winne\\AppData\\Local\\Temp\\rust_mozprofile.tpxzLvvr16Ha"
+[Child 13932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/console.error: "Could not write session state file " (new Error("_initWorker called too econsole.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:31559066520391	Marionette	INFO	Listening on port 49239
+1559066521247	Marionette	WARN	TLS 1559066524648	Marionette	INFO	Listening on port 49210
+1559066525092	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559066525178	Marionette	DEBUG	[6442450945] Frame script loaded
+1559066525180	Marionette	DEBUG	[6442450945] Frame script registered
+15591559066526581	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1559066528058	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https1559066528725	Marionette	D1559066530662	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cyber1559066531227	Mari1559066539292	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://c1559066544492	Marionet1559066544512	Marionette	DEBUG	[6442450945] Canceled page load listener because no naviga1559066545669	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/login/
+1559066545670	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/login/
+1559066547451	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/
+1559066548263	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/
+1559066548299	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/
+1559066548499	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/
+1559066550037	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/
+1559066550518	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/
+1559066550703	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/
+1559066551452	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/
+1559066551453	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-d1559066554209	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/
+1559066554384	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/
+1559066554385	Mario1559066558711	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/
+1559066558888	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/
+1559066558889	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.331559066561671	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-2
+1559066562468	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-2
+15590661559066566353	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-2
+1559066566554	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-2
+1559066566555	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-1559066569617	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-3
+1559066570457	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-3
+15590661559066574086	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-3
+1559066574283	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-3
+1559066574284	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-[Parent 8188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1559066577893	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-4
+11559066581426	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-4
+1559066581618	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-4
+1559066581619	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-4
+1559066581915	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/pag1559066585633	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-5
+11559066588845	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-5
+1559066589030	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-5
+1559066589031	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-5
+1559066589328	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/pag1559066593872	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-6
+11559066596101	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-6
+1559066596609	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-6
+1559066596610	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-6
+1551559066616611	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-7
+1559066622959	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-7
+1559066623152	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-7
+1559066623153	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-7
+1559066623509	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-8
+1559066623999	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-8
+1559066630343	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-8
+1559066631110	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-8
+155901559066631243	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/p1559066631912	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-1551559066632686	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-9
+1559066639269	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-9
+1559066639479	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-9
+155901559066640197	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-9
+1559066640198	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-9
+1559066640967	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-1559066647343	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-10
+1559066651905	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-10
+1559066651906	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-10
+1559066652254	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-11
+1559066652753	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-11
+1559066659098	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-11
+1559066659295	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-11
+1559066659296	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-11
+1559066659936	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-12
+1559066660580	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-12
+1559066666968	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-12
+1559066667458	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-12
+1559066667459	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-12
+1559066667981	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-13
+1559066668656	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-13
+15591559066675941	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-13
+1559066682719	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-13
+1559066682924	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-13
+1559066682925	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-13
+1559066683215	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-1559066684040	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-14
+1559066690970	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-14
+1559066692431	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-14
+1559066692432	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-14
+1559066693056	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-15
+1559066693851	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-15
+1559066700708	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-15
+1559066700908	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-15
+1559066700910	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-15
+1559066701529	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-16
+1559066702177	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-16
+1559066709111	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-16
+1559066709723	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-16
+1559066709724	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-16
+1559066710300	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-17
+1559066711312	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-17
+1559066717964	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-17
+1559066718186	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-17
+1559066718187	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-17
+1559066718773	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-18
+1559066719735	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-18
+1559066726793	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-18
+1559066726997	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-18
+1559066726998	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-18
+1559066727921	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-19
+1559066729126	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-19
+1559066736074	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-19
+1559066736559	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-19
+1559066736560	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-19
+1559066737780	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-20
+1559066739108	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-20
+1559066745593	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-20
+1559066745815	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-20
+1559066745816	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-20
+1559066746837	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-21
+1559066747660	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-21
+1559066754203	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-21
+1559066755101	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-21
+1559066755102	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-21
+1559066755786	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-22
+1559066756292	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-22
+1559066763211	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-22
+1559066765276	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-22
+1559066765278	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-22
+1559066765864	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-23
+1559066766467	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-23
+1559066773285	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-23
+1559066774535	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-23
+1559066774537	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-23
+1559066774908	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-24
+1559066775341	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-24
+1559066781934	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-24
+1559066782143	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-24
+1559066782145	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-24
+1559066782821	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-25
+1559066783334	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-25
+1559066789687	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-25
+1559066789935	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-25
+1559066789936	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-25
+1559066790653	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-1559066797082	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-26
+1559066797905	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-26
+1559066800591	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-26
+1559066800592	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-26
+1559066800943	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-1559066805056	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-27
+1559066807884	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-27
+1559066809095	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-27
+1559066809096	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-27
+1559066809447	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-1559066812954	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-28
+1559066816410	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-28
+1559066817027	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-28
+1559066817028	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-28
+1559066817376	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-1559066822715	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-29
+1559066824518	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-29
+1559066824749	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-29
+1559066824750	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-29
+1559066825066	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-1559066830727	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-30
+1559066832601	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-30
+1559066832838	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-30
+1559066832839	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-30
+1559066833473	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-1559066839629	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-31
+1559066840682	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-31
+1559066856318	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-31
+1559066856320	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-31
+1559066856722	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-32
+1559066857432	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-32
+1559066864236	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-32
+1559066865683	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-32
+1559066865685	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-32
+1559066866016	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-33
+1559066866586	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-33
+1559066873093	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-33
+1559066873691	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-33
+1559066873692	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-33
+1559066874032	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-34
+1559066874495	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-34
+1559066881177	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-34
+1559066881786	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-34
+1559066881787	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-34
+15591559066891548	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-35
+1559066898071	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-35
+1559066898859	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-35
+15591559066907979	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-35
+1559066907980	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-35
+1559066908379	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-36
+1559066908918	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-36
+1559066915313	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-36
+1559066915920	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-36
+1559066915921	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-36
+1559066916291	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-37
+1559066916712	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-37
+1559066923388	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-37
+1559066923592	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-37
+1559066923593	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-37
+1559066923884	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-38
+1559066924240	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-38
+1559066931082	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-38
+1559066931474	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-38
+1559066931475	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-38
+1559066931768	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-39
+1559066932361	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-39
+1559066938896	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-39
+1559066991799	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-39
+1559066991800	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-39
+1559066992202	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-40
+1559066993059	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-40
+1559066999864	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-40
+1559067005231	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-40
+1559067005233	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-40
+1559067005573	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-41
+1559067006305	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-41
+1559067012820	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-41
+1559067013013	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-41
+1559067013014	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-41
+1559067013378	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-42
+1559067013884	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-42
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1559067020524	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-42
+1559067026256	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-42
+1559067026257	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-42
+1559067026556	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-43
+1559067026942	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-43
+1559067033420	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-43
+1559067033649	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-43
+1559067033650	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-43
+1559067034070	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-44
+1559067034492	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-44
+1559067041377	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-44
+1559067041676	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-44
+1559067041677	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-44
+1559067042147	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-45
+1559067042572	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-45
+1559067049044	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-45
+1559067054412	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-45
+1559067054414	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-45
+1559067054857	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-46
+1559067055258	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-46
+1559067061876	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-46
+1559067062116	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-46
+1559067062117	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-46
+1559067062571	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-47
+1559067063210	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-47
+1559067069600	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-47
+1559067070399	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-47
+1559067070400	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-47
+1559067070790	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-48
+1559067071399	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-48
+1559067077738	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-48
+1559067080732	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-48
+1559067080733	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-48
+1559067081302	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-49
+1559067081908	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-49
+1559067088513	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-49
+1559067093522	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-49
+1559067093523	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-49
+1559067093827	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-50
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+[Child 2892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1559071340563	Marionette	INFO	Stopped listening on port 49210
+[GPU 3324, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+eived DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-52
+1559067047779	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-52
+1559067047970	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-52
+1559067047971	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-52
+1559067048352	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-53
+1559067048734	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-53
+1559067055284	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-53
+1559067055486	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-53
+1559067055488	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-53
+1559067055836	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-54
+1559067061052	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-54
+1559067067706	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-54
+1559067073450	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-54
+1559067073451	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-54
+1559067073759	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-55
+1559067083521	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-55
+1559067089953	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-55
+1559067090456	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-55
+1559067090458	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-55
+1559067090771	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-56
+1559067091331	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-56
+1559067097830	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-56
+1559067100498	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-56
+1559067100499	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-56
+1559067100800	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-57
+1559067101208	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-57
+1559067107553	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-57
+1559067107745	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-57
+1559067107746	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-57
+1559067108106	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-58
+1559067117860	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-58
+1559067124296	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-58
+1559067124779	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-58
+1559067124780	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-58
+1559067125083	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-59
+1559067125491	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-59
+1559067132284	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-59
+1559067134739	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-59
+1559067134740	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-59
+1559067134997	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-60
+1559067138349	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-60
+1559067145281	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-60
+1559067145775	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-60
+1559067145776	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-60
+1559067146072	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-61
+1559067147745	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-61
+1559067154548	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-61
+1559067155749	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-61
+1559067155751	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-61
+1559067156345	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-62
+1559067157824	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-62
+1559067164156	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-62
+1559067164580	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-62
+1559067164583	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-62
+1559067164960	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-63
+1559067167615	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-63
+1559067174019	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-63
+1559067174207	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-63
+1559067174208	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-63
+1559067174558	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-64
+1559067174982	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-64
+1559067181533	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-64
+1559067181732	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-64
+1559067181733	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-64
+1559067182068	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-65
+1559067182500	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-65
+1559067188930	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-65
+1559067189119	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-65
+1559067189120	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-65
+1559067189475	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-66
+1559067197323	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-66
+1559067203674	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-66
+1559067203931	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-66
+1559067203933	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-66
+1559067204306	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-67
+1559067204815	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-67
+1559067211623	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-67
+1559067211813	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-67
+1559067211814	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-67
+1559067212086	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-68
+1559067212912	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-68
+1559067219344	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-68
+1559067219879	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-68
+1559067219880	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-68
+1559067220184	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-69
+1559067220686	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-69
+1559067227735	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-69
+1559067228207	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-69
+1559067228208	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-69
+1559067228517	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-70
+1559067229148	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-70
+1559067236339	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-70
+1559067236522	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-70
+1559067236524	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-70
+1559067236895	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-71
+1559067237249	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-71
+1559067244035	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-71
+1559067244552	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-71
+1559067244553	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-71
+1559067244788	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-72
+1559067245174	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-72
+1559067251502	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-72
+1559067251769	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-72
+1559067251770	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-72
+1559067252090	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-73
+1559067252887	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-73
+1559067260859	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-73
+1559067261064	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-73
+1559067261065	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-73
+1559067261438	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-74
+1559067271043	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-74
+1559067277685	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-74
+1559067278185	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-74
+1559067278187	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-74
+1559067278512	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-75
+1559067279457	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-75
+1559067285977	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-75
+1559067286475	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-75
+1559067286476	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-75
+1559067286927	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-76
+1559067287689	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-76
+1559067294104	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-76
+1559067294613	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-76
+1559067294614	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-76
+1559067295144	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-77
+1559067295938	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-77
+1559067302318	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-77
+1559067302511	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-77
+1559067302512	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-77
+1559067302832	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-78
+1559067303286	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-78
+1559067309922	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-78
+1559067312605	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-78
+1559067312606	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-78
+1559067313112	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-79
+1559067313851	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-79
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1559067320341	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-79
+1559067320518	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-79
+1559067320519	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-79
+1559067320884	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-80
+1559067321450	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-80
+1559067327715	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-80
+1559067337420	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-80
+1559067337421	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-80
+1559067337988	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-81
+1559067338559	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-81
+1559067344866	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-81
+1559067345064	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-81
+1559067345065	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-81
+1559067345507	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-82
+1559067346138	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-82
+1559067352503	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-82
+1559067353013	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-82
+1559067353014	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-82
+1559067353503	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-83
+1559067355638	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-83
+1559067361927	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-83
+1559067362126	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-83
+1559067362127	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-83
+1559067362517	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-84
+1559067363596	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-84
+1559067369825	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-84
+1559067370433	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-84
+1559067370434	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-84
+1559067370674	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-85
+1559067371038	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-85
+1559067377325	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-85
+1559067377510	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-85
+1559067377511	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-85
+1559067377827	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-86
+1559067378221	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-86
+1559067384623	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-86
+1559067384853	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-86
+1559067384855	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-86
+1559067385462	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-87
+1559067385963	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-87
+1559067392193	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-87
+1559067392969	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-87
+1559067392970	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-87
+1559067393530	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-88
+1559067394136	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-88
+1559067400382	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-88
+1559067400565	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-88
+1559067400567	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-88
+1559067401202	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-89
+1559067401958	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-89
+1559067408258	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-89
+1559067408784	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-89
+1559067408785	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-89
+1559067409747	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-90
+1559067410416	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-90
+1559067416667	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-90
+1559067417296	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-90
+1559067417297	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-90
+1559067417610	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-91
+1559067418037	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-91
+1559067424273	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-91
+1559067424462	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-91
+1559067424463	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-91
+1559067424743	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-92
+1559067425132	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-92
+1559067431559	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-92
+1559067432049	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-92
+1559067432050	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-92
+1559067432360	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-93
+1559067433041	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-93
+1559067439525	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-93
+1559067439776	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-93
+1559067439777	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-93
+1559067440120	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-94
+1559067479134	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-94
+1559067485603	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-94
+1559067485794	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-94
+1559067485795	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-94
+1559067486106	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-95
+1559067486664	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-95
+1559067493525	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-95
+1559067493713	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-95
+1559067493714	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-95
+1559067494011	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-96
+1559067496471	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-96
+1559067502881	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-96
+1559067503385	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-96
+1559067503386	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-96
+1559067503949	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-97
+1559067504523	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-97
+1559067510745	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-97
+1559067511549	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-97
+1559067511552	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-97
+1559067512098	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-98
+1559067512775	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-98
+1559067519002	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-98
+1559067519202	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-98
+1559067519204	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-98
+1559067519635	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-99
+1559067521814	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-99
+1559067527455	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-99
+1559067528090	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-99
+1559067528091	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-99
+1559067528459	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/forums/gaming-discussion.33/page-99
+1559067529047	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/forums/gaming-discussion.33/page-99
+1559067534632	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/forums/gaming-discussion.33/page-99
+1559067534808	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/forums/gaming-discussion.33/page-99
+1559067534810	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/forums/gaming-discussion.33/page-99
+1559067535983	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/threads/selling-pubg-pc-steam.1520/
+1559067537367	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/threads/selling-pubg-pc-steam.1520/
+1559067598569	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://cybernepal.com/threads/selling-pubg-pc-steam.1520/
+1559067601381	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://cybernepal.com/threads/selling-pubg-pc-steam.1520/
+1559067601382	Marionette	DEBUG	[6442450945] Received DOM event unload for https://cybernepal.com/threads/selling-pubg-pc-steam.1520/
+1559067601610	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://cybernepal.com/posts/10034/react?reaction_id=5
+1559067601878	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://cybernepal.com/posts/10034/react?reaction_id=5
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+[Parent 8188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17144, Chrome_ChildThrea1559071340536	Marionette	INFO	Stopped listening on port 49239
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

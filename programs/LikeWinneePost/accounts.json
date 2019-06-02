@@ -1,0 +1,17 @@
+{ 
+    "accounts": [ 
+{
+            "email": "kishor.shrestha.mail@gmail.com",
+            "password": "9860988117"
+        },
+        {
+            "email": "foode.monkey@gmail.com",
+            "password": "9860988117"
+        },
+        
+        {
+            "email": "shresthaalu@gmail.com",
+            "password": "9860988117"
+        }
+    ]
+}
