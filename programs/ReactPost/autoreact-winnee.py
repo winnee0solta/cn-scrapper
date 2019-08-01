@@ -232,43 +232,47 @@ while 1:
                 #get reply url
                 spanwithid = singlereplydiv.find(
                     "span", {"class": "u-anchorTarget"})
-                idtoreact = spanwithid['id']
-                temp_id = idtoreact.split('-')
-                postid = int(temp_id[1])
+                #check if already reacted
+                if spanwithid.find("a", {"class": "has-reaction"}) is  None:
+                    idtoreact = spanwithid['id']
+                    temp_id = idtoreact.split('-')
+                    postid = int(temp_id[1])
 
-                print('################################################################')
-                print('SLEEP MODE ON FOR Random  SEC ')
-                print('################################################################')
-                time.sleep(int(random.uniform(10, 80)))
-                # react page
-                reactpageurl = 'https://cybernepal.com/posts/' + \
-                    str(postid)+'/react?reaction_id='+str(emotoselect)
-                driver.get(reactpageurl)
-                time.sleep(int(random.uniform(1, 5)))
-                driver.execute_script(
-                    "window.scrollTo(0, (document.body.scrollHeight)/5);")
-                time.sleep(int(random.uniform(1, 5)))
-                driver.execute_script(
-                    "window.scrollTo(0, (document.body.scrollHeight)/5);")
-                time.sleep(int(random.uniform(1, 5)))
+                    print('################################################################')
+                    print('SLEEP MODE ON FOR Random  SEC ')
+                    print('################################################################')
+                    time.sleep(int(random.uniform(10, 80)))
 
-                html4 = driver.execute_script(
-                    "return document.documentElement.outerHTML")
-                soup4 = BeautifulSoup(html4, 'html.parser')
-                # use the drive to confirm
-                driver.find_element_by_css_selector(
-                    '.button--icon--confirm').click()
-                driver.get('https://cybernepal.com')
-                #
-                # maybe some delay
-                #
-                print(
-                    "#############################################################################################")
-                print(
-                    "######################################### 29 sec Delay #########################################")
-                print(
-                    "#############################################################################################")
-                time.sleep(int(random.uniform(10, 29)))
+                    # react page
+                    reactpageurl = 'https://cybernepal.com/posts/' + \
+                        str(postid)+'/react?reaction_id='+str(emotoselect)
+                    driver.get(reactpageurl)
+                    time.sleep(int(random.uniform(1, 5)))
+                    driver.execute_script(
+                        "window.scrollTo(0, (document.body.scrollHeight)/5);")
+                    time.sleep(int(random.uniform(1, 5)))
+                    driver.execute_script(
+                        "window.scrollTo(0, (document.body.scrollHeight)/5);")
+                    time.sleep(int(random.uniform(1, 5)))
+
+                    html4 = driver.execute_script(
+                        "return document.documentElement.outerHTML")
+                    soup4 = BeautifulSoup(html4, 'html.parser')
+                    # use the drive to confirm
+                    driver.find_element_by_css_selector(
+                        '.button--icon--confirm').click()
+                    driver.get('https://cybernepal.com')
+                    #
+                    # maybe some delay
+                    #
+                    print(
+                        "#############################################################################################")
+                    print(
+                        "######################################### 29 sec Delay #########################################")
+                    print(
+                        "#############################################################################################")
+                    time.sleep(int(random.uniform(10, 29)))
+                    #end check if already reacted
             #if ends for username
 
         # 15min delay
